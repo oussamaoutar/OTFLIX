@@ -1,0 +1,25 @@
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 100px;
+    transition: 0.5s;
+    z-index: 10000;
+}
+
+header.scrolled {
+    background: var(--primary); 
+    padding: 10px 100px;
+}
+
+.logo {
+    width: 175px;
+}
+
+.logo img {
+    width: 100%;
+}

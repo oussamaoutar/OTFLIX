@@ -1,0 +1,50 @@
+[
+  {
+    "_id": 1,
+    "thumbnail": "../assets/blogs/blog-1.jpeg",
+    "category": "Blog1",
+    "title": "Dolorum optio tempore voluptas dignissimos quo quia et sucip",
+    "author": {
+      "name": "Aymane Saad",
+      "image": "../assets/blogs/blog-author.png"
+    },
+    "date": "2024-01-19",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam est fugit iusto. Eligendi iste, magni nihil atque, id perferendis repellendus cum mollitia nobis qui unde recusandae natus in. Laboriosam, esse?"
+  },
+  {
+    "_id": 2,
+    "thumbnail": "../assets/blogs/blog-2.jpeg",
+    "category": "Blog2",
+    "title": "Possimus soluta ut id suscipit ea ut in quo quia et soluta",
+    "author": {
+      "name": "Abderrazzaq Majouj",
+      "image": "../assets/blogs/blog-author.png"
+    },
+    "date": "2023-12-31",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam est fugit iusto. Eligendi iste, magni nihil atque, id perferendis repellendus cum mollitia nobis qui unde recusandae natus in. Laboriosam, esse?"
+  },
+  {
+    "_id": 3,
+    "thumbnail": "../assets/blogs/blog-3.jpeg",
+    "category": "Blog3",
+    "title": "Nisi magni odit consequatur autem nulla dolorem",
+    "author": {
+      "name": "Oussama Outar",
+      "image": "../assets/blogs/blog-author.png"
+    },
+    "date": "2024-02-02",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam est fugit iusto. Eligendi iste, magni nihil atque, id perferendis repellendus cum mollitia nobis qui unde recusandae natus in. Laboriosam, esse?"
+  },
+  {
+    "_id": 4,
+    "thumbnail": "../assets/blogs/blog-4.jpeg",
+    "category": "Blog4",
+    "title": "Non rem rerum nam cum quo minus olor distincti",
+    "author": {
+      "name": "Hamza Latifi",
+      "image": "../assets/blogs/blog-author.png"
+    },
+    "date": "2023-07-23",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam est fugit iusto. Eligendi iste, magni nihil atque, id perferendis repellendus cum mollitia nobis qui unde recusandae natus in. Laboriosam, esse?"
+  }
+]

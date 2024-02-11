@@ -1,0 +1,28 @@
+.banner .date {
+    position: relative;
+    visibility: hidden;
+    opacity: 0;
+    transform: scale(0);
+    transition: 1s;
+    z-index: 1000;
+}
+
+.banner .date.active {
+    visibility: visible;
+    opacity: 1;
+    transform: scale(1);
+}
+
+.banner .date h2 {
+    color: orange;
+    text-transform: uppercase;
+    margin-top: 120px;
+    font-size: 3.5rem;
+    font-weight: bolder;
+    text-align: center;
+    margin-bottom: 20px;
+    text-shadow: 0 0 10px rgba(246, 246, 246, 0.8);
+    -webkit-mask: linear-gradient(#000000 0 0), linear-gradient(#000000 0 0);
+    -webkit-mask-clip: text, padding-box;
+    -webkit-mask-composite: xor;
+}
